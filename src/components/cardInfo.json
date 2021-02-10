@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Euro Travel Rock",
+    "bio": "An application that would allow users to see the city they are traveling to and flight prices.",
+    "stack": "Stack : HTML, CSS, Materialize, JavaScript, AJAX calls.",
+    "githubLink": "https://github.com/AnthonyGamon/Euro-Travel-Rock",
+    "liveLink": "https://sethglenn.github.io/project1/"
+  },
+  {
+    "title": "Work Day Scheduler",
+    "bio": "An application that allows you to schedule hour to hour how your work day will look like.",
+    "stack": "Stack : HTML, CSS, Javascript, API Calls.",
+    "githubLink": "https://github.com/AnthonyGamon/Work-Day-Scheduler",
+    "liveLink": "https://anthonygamon.github.io/Work-Day-Scheduler/"
+  },
+  {
+    "title": "Password Generator",
+    "bio": "An application that will allow the user to create a randomly generated password from different questions that are asked.",
+    "stack": "Stack : HTML, CSS, JavaScript.",
+    "githubLink": "https://github.com/AnthonyGamon/Password-Generator",
+    "liveLink": "https://anthonygamon.github.io/Password-Generator/"
+  },
+  {
+    "title": "Instagram Portfolio",
+    "bio": "A side project I started to mix my two favorite things, coding and sneaker photography. I wanted to see how it would develop over time.",
+    "stack": "Stack : HTML, CSS, Javascript.",
+    "githubLink": "https://github.com/AnthonyGamon/instagram-portfolio",
+    "liveLink": "https://anthonygamon.github.io/instagram-portfolio/"
+  },
+  {
+    "title": "See Something Say Something",
+    "bio": "An application that allows you to report and view crime in your local area.",
+    "stack": "Stack : HTML, CSS, API Calls, MySQL, Node.Js, JawsDB, Sequelize, Express, Javascript.",
+    "githubLink": "https://github.com/AnthonyGamon/See-Something-Say-Something",
+    "liveLink": "https://fierce-mountain-61777.herokuapp.com/"
+  },
+  {
+    "title": "Note Taker",
+    "bio": "An application that allows you to create and delete notes.",
+    "stack": "Stack : HTMl, CSS, Javascript, Express, Uuid, Node.",
+    "githubLink": "https://github.com/AnthonyGamon/Note-Taker",
+    "liveLink": "https://sleepy-basin-31482.herokuapp.com/"
+  }
+]
